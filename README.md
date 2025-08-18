@@ -18,7 +18,8 @@ So I asked claude. First about house, dubstep, and trance, then expanding to
 other genres of note.
 
 After preceding paragraph, it should be obvious that I don't know, and cannot
-know whether anything in document is correct. Deal with it.
+know whether anything in this document is correct. If you disagree,
+[file an issue or submit a PR](https://github.com/jteuho/jteuho.github.io).
 
 Anyways, here's a [Spotify playlist containing all the sound checks](https://open.spotify.com/playlist/5hJ43TZAcBvoqQq8F7swzu?si=e76c7891a7ca45fe).
 Now back to computer-generated content.
@@ -35,7 +36,7 @@ Now back to computer-generated content.
 8. [Progressive House](#8-progressive-house-early-90s)
 9. [Jungle](#9-jungle-early-90s)
 10. [Drum & Bass](#10-drum--bass-mid-90s)
-11. [Trip-Hop](#11-trip-hop-1988-1994)
+11. [Trip-Hop](#11-trip-hop-19881994)
 12. [IDM (Intelligent Dance Music)](#12-idm-intelligent-dance-music-early-90s)
 13. [Eurodance](#13-eurodance-early-90s)
 14. [Liquid Drum & Bass](#14-liquid-drum--bass-mid-90s)
@@ -43,7 +44,7 @@ Now back to computer-generated content.
 16. [Breakbeat/Big Beat](#16-breakbeatbig-beat-mid-90s)
 17. [Psytrance](#17-psytrance-mid-90s)
 18. [Hardstyle](#18-hardstyle-early-2000s)
-19. [Early UK Dubstep](#19-early-uk-dubstep-1998-2002)
+19. [Early UK Dubstep](#19-early-uk-dubstep-19982002)
 20. [Synthwave](#20-synthwave-late-2000s)
 21. [Modern Uplifting Trance](#21-modern-uplifting-trance-late-2000s)
 22. [Modern Dubstep](#22-modern-dubstep-around-2010)
